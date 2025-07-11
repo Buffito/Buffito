@@ -1,4 +1,4 @@
-##👋 Hi there, my name is Theodoros
+## 👋 Hi there, my name is Theodoros
 
 <!--
 **Buffito/Buffito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
