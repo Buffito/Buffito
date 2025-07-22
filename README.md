@@ -1,7 +1,7 @@
 ## 👋 Hi there, my name is Theodoros
 
 Almost a full-stack-ish developer that mostly chills on the backend, where the logic lives and the UI doesn’t yell at me.  
-Been working professionally for 3+ years writing C# (.NET), fighting SQL joins (hi FirebirdSQL 👹), and trying to center a `<div>` without summoning dark forces.
+Been working professionally for 3+ years writing mostly C# (.NET), fighting SQL joins (hi FirebirdSQL 👹), and trying to center a `<div>` without summoning dark forces.
 
 ## 🎯 Main Quest
 - Gather as much EXP as I can to level up (and maybe respec into Senior Dev someday)
