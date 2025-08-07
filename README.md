@@ -12,6 +12,6 @@ Been working professionally for 3+ years writing mostly C# (.NET), fighting SQL 
 - Avoiding burnout by calling it “learning through hobby projects”
 
 ## 🧰 Tech Arsenal
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,flask,kotlin,nodejs,py,postgres,postman,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,flask,kotlin,nodejs,py,postgres,postman,mongodb,mysql)](https://skillicons.dev)
 
 > 💬 Also fluent in: Googling error messages, muttering "this should work" and consuming copious amount of caffeine.
