@@ -8,7 +8,7 @@ Been working professionally for 3+ years writing mostly C# (.NET), fighting SQL 
 
 ## 🧩 Sidequests
 - Refactoring old repos because I enjoy pain and version control nightmares
-- Experimenting with new stacks when not painting Warhammer minis like a true templar
+- Experimenting with new stacks when not painting Warhammer minis
 - Avoiding burnout by calling it “learning through hobby projects”
 
 ## 🧰 Tech Arsenal
